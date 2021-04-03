@@ -1,0 +1,4 @@
+﻿  HW_2b.cpp
+C:\Users\Jason\source\repos\HW_2b\HW_2b\HW_2b.cpp(37,12): warning C4101: 'j': unreferenced local variable
+C:\Users\Jason\source\repos\HW_2b\HW_2b\HW_2b.cpp(37,9): warning C4101: 'i': unreferenced local variable
+  HW_2b.vcxproj -> C:\Users\Jason\source\repos\HW_2b\Debug\HW_2b.exe

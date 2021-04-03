@@ -1,0 +1,3 @@
+﻿  HW_2a.cpp
+C:\Users\Jason\source\repos\HW_2a\HW_2a\HW_2a.cpp(102,29): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  HW_2a.vcxproj -> C:\Users\Jason\source\repos\HW_2a\Debug\HW_2a.exe

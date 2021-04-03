@@ -1,0 +1,5 @@
+﻿  HW_1a.cpp
+C:\Users\Jason\source\repos\HW_1a\HW_1a\HW_1a.cpp(77,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jason\source\repos\HW_1a\HW_1a\HW_1a.cpp(83,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jason\source\repos\HW_1a\HW_1a\HW_1a.cpp(134): warning C4715: 'displayPay': not all control paths return a value
+  HW_1a.vcxproj -> C:\Users\Jason\source\repos\HW_1a\Debug\HW_1a.exe

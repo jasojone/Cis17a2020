@@ -1,0 +1,5 @@
+﻿  cis17aHW_5b.cpp
+C:\Users\Jason\source\repos\cis17aHW_5b\cis17aHW_5b\cis17aHW_5b.cpp(22,22): warning C4101: 'seconds': unreferenced local variable
+C:\Users\Jason\source\repos\cis17aHW_5b\cis17aHW_5b\cis17aHW_5b.cpp(22,13): warning C4101: 'minutes': unreferenced local variable
+C:\Users\Jason\source\repos\cis17aHW_5b\cis17aHW_5b\cis17aHW_5b.cpp(22,6): warning C4101: 'hours': unreferenced local variable
+  cis17aHW_5b.vcxproj -> C:\Users\Jason\source\repos\cis17aHW_5b\Debug\cis17aHW_5b.exe

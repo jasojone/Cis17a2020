@@ -1,0 +1,6 @@
+﻿  HW_2c.cpp
+C:\Users\Jason\source\repos\HW_2c\HW_2c\HW_2c.cpp(34,6): warning C4101: 'rowAvg': unreferenced local variable
+C:\Users\Jason\source\repos\HW_2c\HW_2c\HW_2c.cpp(168,3): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jason\source\repos\HW_2c\HW_2c\HW_2c.cpp(171,3): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jason\source\repos\HW_2c\HW_2c\HW_2c.cpp(174,3): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  HW_2c.vcxproj -> C:\Users\Jason\source\repos\HW_2c\Debug\HW_2c.exe

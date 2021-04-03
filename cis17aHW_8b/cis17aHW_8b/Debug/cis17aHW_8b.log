@@ -1,0 +1,6 @@
+﻿  cis17aHW_8b.cpp
+C:\Users\Jason\source\repos\cis17aHW_8b\cis17aHW_8b\cis17aHW_8b.cpp(32,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jason\source\repos\cis17aHW_8b\cis17aHW_8b\cis17aHW_8b.cpp(43,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jason\source\repos\cis17aHW_8b\cis17aHW_8b\cis17aHW_8b.cpp(54,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jason\source\repos\cis17aHW_8b\cis17aHW_8b\cis17aHW_8b.cpp(66,23): warning C4018: '<': signed/unsigned mismatch
+  cis17aHW_8b.vcxproj -> C:\Users\Jason\source\repos\cis17aHW_8b\Debug\cis17aHW_8b.exe
